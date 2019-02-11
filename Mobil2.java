@@ -1,21 +1,21 @@
-package tugas2;
+package tugaspemrograman2;
 
 public class Mobil2 {
 
     public static void main(String[] args) {
         
         System.out.println("=============================\n");
-        System.out.println("  Mochamad Erdiansyah - 1841805 - SI Z");
+        System.out.println("  Satria Nasution - 1841811 - SI Z");
         System.out.println("  Tugas Latihan Pemrograman 2  ");
         System.out.println("=============================\n");
-        Mobil sedan = new Mobil();
+        Mobil toyota = new Mobil();
 
-        sedan.start(true);
-        sedan.gantiGigi(4);
-        sedan.gas();
-        sedan.rem(true);
-        sedan.stop(true);
-        sedan.gas();
+        toyota.start(true);
+        toyota.gantiGigi(1);
+        toyota.gas();
+        toyota.rem(true);
+        toyota.stop(false);
+        toyota.gas();
        
          
 
