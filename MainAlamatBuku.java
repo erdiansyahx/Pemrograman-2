@@ -1,6 +1,8 @@
 public class MainAlamatBuku {
 
 
+
+
 public class Main {
     AlamatBuku buku = new AlamatBuku();
     Scanner s = new Scanner(System.in);
