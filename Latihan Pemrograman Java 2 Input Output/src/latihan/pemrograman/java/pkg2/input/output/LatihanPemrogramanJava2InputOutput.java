@@ -11,7 +11,7 @@ import java.util.Scanner;
 
 /**
  *
- * Created by MochamadErdiansyah
+ * Created by Saefulhusna
  */
 public class LatihanPemrogramanJava2InputOutput {
 
